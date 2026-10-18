@@ -181,7 +181,7 @@ export const projects = [
     tagline: 'Online Education & Learning Platform',
     summary:
       'Educational website offering online courses, digital learning and skill development.',
-    image: '/projects/project1.webp',
+    image: 'public/projects/project1.png',
     link: 'https://www.e-gurukul.org/',
     tech: ['HTML', 'CSS', 'Bootstrap', 'JavaScript', 'PHP'],
     ai: {
@@ -211,7 +211,7 @@ export const projects = [
     tagline: 'Astrology & Spiritual Guidance',
     summary:
       'Astrology and spiritual guidance platform offering consultations and remedies for different aspects of life.',
-    image: '/projects/project2.webp',
+    image: 'public/projects/project2.png',
     link: 'https://astrospiritualsolutions.com/',
     tech: ['HTML', 'CSS', 'Bootstrap', 'JavaScript'],
     ai: {
@@ -240,7 +240,7 @@ export const projects = [
     tagline: 'Legal Consultancy Firm',
     summary:
       'Legal consultancy website for corporate and individual clients, both domestic and overseas.',
-    image: '/projects/project3.webp',
+    image: 'public/projects/project3.png',
     link: 'https://legalconsultus.com/',
     tech: ['HTML', 'CSS', 'Bootstrap', 'JavaScript', 'PHP'],
     ai: {

@@ -3,6 +3,13 @@
 // - Injects a <noscript> text version of the page for crawlers that don't run JavaScript
 // - When VITE_SITE_URL is set: adds canonical / og:url / absolute share-image URLs,
 //   and emits sitemap.xml; robots.txt is always emitted.
+// import {
+//   experiences,
+//   profile,
+//   projects,
+//   skillGroups,
+// } from '../src/data/portfolio.js';
+
 import {
   experiences,
   profile,
