@@ -7,7 +7,7 @@ import { WhatIDo } from './sections/WhatIDo';
 import { Experience } from './sections/Experience';
 import { Skills } from './sections/Skills';
 import { Projects } from './sections/Projects';
-// import { Contact } from './sections/Contact';
+import { Contact } from './sections/Contact';
 import { ParticleCanvas } from './components/ParticleCanvas';
 import { AIModal } from './components/AIModal';
 import { useReveal } from './components/useReveal';
@@ -65,7 +65,7 @@ function App() {
         <hr className="divider" />
         <Education />
         <hr className="divider" />
-        {/* <Contact /> */}
+        <Contact />
       </main>
       <Footer />
       <BackToTop />
