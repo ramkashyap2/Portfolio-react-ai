@@ -6,5 +6,5 @@ import { seoPlugin } from './seo/seoPlugin.js';
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss(), seoPlugin()],
-  base: '/its-ram-kashyap.github.io',
+  base: 'https://ramkashyap2.github.io/Portfolio-react-ai/',
 });
