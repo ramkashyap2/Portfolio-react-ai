@@ -8,7 +8,7 @@ export const profile = {
   phone: '+91 8802638142',
   phoneHref: 'tel:+918802638142',
   email: 'ramkashyap2@gmail.com',
-  cv: '/CV/CV.pdf',
+  cv: '../../public/CV/CV.pdf',
   // Rotates in the hero subheading.
   roles: ['SOFTWARE ENGINEER | Front End Developer'],
   // Add your profile URLs here — icons only appear for links that are filled in.
