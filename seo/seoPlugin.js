@@ -110,7 +110,7 @@ const buildNoscript = () => `
       <h2>Skills</h2>
       <p>${esc(allSkills.join(', '))}</p>
       <h2>Contact</h2>
-      <p>Email: <a href="mailto:${esc(profile.email)}">${esc(profile.email)}</a> · Phone: ${esc(profile.phone)} · <a href="${esc(profile.cv)}">Download CV</a></p>
+      <p>Email: <a href="mailto:${esc(profile.email)}">${esc(profile.email)}</a> · Phone: ${esc(profile.phone)} · <a href="${esc(profile.resume)}">Download CV</a></p>
     </main>
   </noscript>`;
 

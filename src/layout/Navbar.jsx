@@ -89,7 +89,7 @@ export const Navbar = () => {
         ))}
         <li>
           <a
-            href={profile.cv}
+            href={profile.resume}
             className="nav-link"
             target="_blank"
             rel="noopener noreferrer"
